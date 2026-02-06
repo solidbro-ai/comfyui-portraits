@@ -1,1 +1,8 @@
 output/
+# Generated/temp
+output/
+reference/
+__pycache__/
+*.pyc
+.DS_Store
+venv/
